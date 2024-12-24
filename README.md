@@ -1,6 +1,6 @@
 👋 **Hi there! I'm Sai Krishna Prashanth Kolluru** 
 
-🚀 **Machine Learning | Cloud Enthusiast | AI Explorer**
+🚀 **Data Engineer  | Cloud Enthusiast | AI Explorer**
 
 💡**About Me:**
 - Data Engineer with a passion for crafting efficient and scalable data pipelines.
