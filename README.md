@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m Sai Krishna Prashanth Kolluru
 
-🚀 **Data Scientist | Machine Learning Engineer | AI Innovator**
+🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
 
 ---
 
